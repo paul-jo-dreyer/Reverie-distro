@@ -4,7 +4,7 @@ A navigable 3D landscape built from a knowledge corpus. Spatial position encodes
 learned relatedness, so moving through the world is moving through a topic.
 
 This repository carries the Linux test builds and nothing else. Each release is
-one self-contained tarball — engine, native extension and corpus — and needs no
+one self-contained tarball (engine, native extension and corpus), and needs no
 toolchain to run.
 
 ## Install
@@ -38,7 +38,7 @@ size, then waits for you to type `delete`.
 
 ## Prerequisites
 
-- x86_64 Linux, glibc 2.34 or newer — Ubuntu 22.04, Debian 12, Fedora 35 and
+- x86_64 Linux, glibc 2.34 or newer, Ubuntu 22.04, Debian 12, Fedora 35 and
   later.
 - A Vulkan driver. Without one the world does not draw, and
   `Reverie.x86_64 --rendering-method gl_compatibility` is the way round it.
