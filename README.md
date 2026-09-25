@@ -1,3 +1,5 @@
+<img src="icon.svg" alt="" width="96">
+
 # Reverie — test builds
 
 A navigable 3D landscape built from a knowledge corpus. Spatial position encodes
