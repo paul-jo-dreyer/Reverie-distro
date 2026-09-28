@@ -9,6 +9,16 @@ This repository carries the Linux test builds and nothing else. Each release is
 one self-contained tarball (engine, native extension and corpus), and needs no
 toolchain to run.
 
+## A minute in the world
+
+https://github.com/paul-jo-dreyer/Reverie-distro/raw/main/media/reel.mp4
+
+<video src="media/reel.mp4" poster="media/poster.jpg" controls muted playsinline width="100%"></video>
+
+[Watch it](media/reel.mp4) — 75 seconds, recorded from the client itself: the
+corpus from above, a paper and the ideas under it, the spine walking up the
+abstraction tree.
+
 ## Install
 
 ```bash
