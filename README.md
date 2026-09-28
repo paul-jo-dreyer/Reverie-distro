@@ -11,13 +11,11 @@ toolchain to run.
 
 ## A minute in the world
 
-https://github.com/paul-jo-dreyer/Reverie-distro/raw/main/media/reel.mp4
+[![A minute in the world](media/poster.jpg)](https://github.com/paul-jo-dreyer/Reverie-distro/blob/main/media/reel.mp4)
 
-<video src="media/reel.mp4" poster="media/poster.jpg" controls muted playsinline width="100%"></video>
-
-[Watch it](media/reel.mp4) — 75 seconds, recorded from the client itself: the
-corpus from above, a paper and the ideas under it, the spine walking up the
-abstraction tree.
+Seventy-five seconds, recorded from the client itself rather than from a screen:
+the corpus from above, a paper and the ideas underneath it, and the spine
+walking up the abstraction tree. Click the still and GitHub plays it.
 
 ## Install
 
